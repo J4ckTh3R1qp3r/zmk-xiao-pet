@@ -1,0 +1,4 @@
+config XIAO_PET_STATUS_SCREEN
+    bool "XIAO Pet status screen"
+    default y
+    depends on ZMK_DISPLAY
