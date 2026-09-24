@@ -18,8 +18,7 @@
 #     artifact-name: corne_left_with_studio
 #
 
-
 include:
   - board: xiao_ble//zmk
-    shield: tester_xiao
-    artifact-name: xiao-pet-test
+    shield: xiao_pet
+    artifact-name: xiao-pet
